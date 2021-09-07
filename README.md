@@ -9,8 +9,8 @@
 # heading for directions to reach my favorite place in ordered and unordered list
 1. Maryville
 2. kansas city
-  1. kansas downtown
-  2. DOwntown Airport
+   1. kansas downtown
+   2. DOwntown Airport
   3. chicago
 3. newyork
 
