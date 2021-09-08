@@ -32,7 +32,7 @@ The below table is to tell about my favourite foods and drink items, and locatio
 |Amount     | 70-80            | 80-90         | 50-60        |
 ***
 # Quotes Section
-“Many of life’s failures are people who did not realize how close they were to success when they gave up.”
+>“Many of life’s failures are people who did not realize how close they were to success when they gave up.”
 >Author: *Thomas A. Edison* <br>
 >“Keep calm and carry on.” 
 >Author: *Winston Churchill*
