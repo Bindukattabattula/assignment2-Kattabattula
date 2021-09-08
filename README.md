@@ -19,3 +19,17 @@
    * fun
    * best view videos
 **[linktoAboutMe.md](AboutMe.md)**
+***
+# Create a table with atleast four foods/ drink items
+
+INTRODUCTION:
+The below table is to tell about my favourite foods and drink items, and locations where it is available, cost of the foods
+|compulsory | item 1           | item 2        | item 3       |
+|:---------:| :---------:      | :--------:    | :-----------:|
+| food      | sizziling brownie| rollover      | biryani      |
+|location   | vijayawada       | guntur        | Hyderabad    |
+| Type      | delicious        |sweet dessert  | spicy        |
+|Amount     | 70-80            | 80-90         | 50-60        |
+
+
+
