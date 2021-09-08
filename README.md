@@ -40,5 +40,24 @@ The below table is to tell about my favourite foods and drink items, and locatio
 # Code Fencing
 >A datastructure is a particular way of organizing data in a computer so that it can be used effectively.
 For example, we can store a list of items having the same data-type using the array data structure.Quick link to the source<https://www.geeksforgeeks.org/data-structures/>
+```
+void make_set(int v) {
+    parent[v] = v;
+}
+
+int find_set(int v) {
+    if (v == parent[v])
+        return v;
+    return find_set(parent[v]);
+}
+
+void union_sets(int a, int b) {
+    a = find_set(a);
+    b = find_set(b);
+    if (a != b)
+        parent[b] = a;
+}
+```
+Quick Link to the source code <https://cp-algorithms.com/data_structures/disjoint_set_union.html>
 
 
