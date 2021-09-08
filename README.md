@@ -37,5 +37,8 @@ The below table is to tell about my favourite foods and drink items, and locatio
 >“Keep calm and carry on.” 
 >Author: *Winston Churchill*
 ***
+# Code Fencing
+>A datastructure is a particular way of organizing data in a computer so that it can be used effectively.
+For example, we can store a list of items having the same data-type using the array data structure.Quick link to the source<https://www.geeksforgeeks.org/data-structures/>
 
 
